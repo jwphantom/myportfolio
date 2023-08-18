@@ -1,0 +1,4 @@
+{
+  "plugins": ["unicorn"],
+  "extends": ["eslint:recommended", "plugin:unicorn/recommended"]
+}
