@@ -8,7 +8,7 @@ export default function About() {
                 <div className="section-title">
                     <h2>About</h2>
                     <p>
-                        I&apos;m James Olongo based in Yaoundé, Paris and
+                        I&apos;m James Olongo based in Yaoundé, Cameroon and
                         i&apos;m available for freelance and full-time work
                     </p>
                 </div>
@@ -30,11 +30,6 @@ export default function About() {
                                 <ul>
                                     <li>
                                         <i className="bi bi-chevron-right" />{" "}
-                                        <strong>Birthday:</strong>{" "}
-                                        <span>{GlobalConstants.birthday}</span>
-                                    </li>
-                                    <li>
-                                        <i className="bi bi-chevron-right" />{" "}
                                         <strong>Website:</strong>{" "}
                                         <span>{GlobalConstants.website}</span>
                                     </li>
@@ -54,11 +49,6 @@ export default function About() {
                             </div>
                             <div className="col-lg-6">
                                 <ul>
-                                    <li>
-                                        <i className="bi bi-chevron-right" />
-                                        <strong>Age:</strong>{" "}
-                                        <span>{GlobalConstants.age}</span>
-                                    </li>
                                     <li>
                                         <i className="bi bi-chevron-right" />
                                         <strong>Degree:</strong>
