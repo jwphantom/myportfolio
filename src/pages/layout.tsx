@@ -10,7 +10,7 @@ export default function Layout({ children, title, breadScrumbs }: any) {
         <>
             <div>
                 <Head>
-                    <title>James Olongo v2 | {title} </title>
+                    <title>James Olongo | {title} </title>
                     <meta
                         name={GlobalConstants.appname}
                         content={GlobalConstants.description}

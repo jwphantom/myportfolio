@@ -39,7 +39,12 @@ export default function Footer() {
                 </div>
                 <div className="credits">
                     Designed by{" "}
-                    <a href="jamesolongo.vercel.com">James Olongo</a>
+                    <Link
+                        target="_blank"
+                        href="https://jamesolongo.vercel.app/"
+                    >
+                        James Olongo
+                    </Link>
                 </div>
             </div>
         </footer>

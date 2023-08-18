@@ -6,6 +6,7 @@ export class LoadScript {
         script.async = false;
 
         document.body.appendChild(script);
+        document.body.removeChild(script);
 
 
     }
