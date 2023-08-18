@@ -16,7 +16,7 @@ export class GlobalConstants {
     public static year: string = "2023";
 
     //email website
-    public static email: string = "jawill.olongo@gmail.com";
+    public static email: string = "olongowilliam@gmail.com";
 
     //name of website
     public static appname: string = "James Olongo";
