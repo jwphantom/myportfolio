@@ -15,7 +15,7 @@ export class LoadScript {
     public loadJS() {
         this.loadScript('js/purecounter/purecounter_vanilla.js');
 
-        this.loadScript('js/aos/aos.js');
+        //this.loadScript('js/aos/aos.js');
 
         this.loadScript('js/bootstrap/js/bootstrap.bundle.min.js');
 

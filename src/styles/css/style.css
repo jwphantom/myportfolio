@@ -300,6 +300,7 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #45505b;
+  position: relative;
 }
 
 #hero p {
@@ -307,6 +308,7 @@ h6 {
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
+  position: relative;
 }
 
 #hero p span {
@@ -316,6 +318,7 @@ h6 {
 
 #hero .social-links {
   margin-top: 30px;
+  position: relative;
 }
 
 #hero .social-links a {
