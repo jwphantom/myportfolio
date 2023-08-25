@@ -2,7 +2,7 @@ import Image from "next/image";
 import ToastCenter from "@/components/Toast/ToastCenter";
 import { toast } from "react-toastify";
 import Link from "next/link";
-import portfolioData from "@/data/portfolio";
+import portfolioData from "@/db/portfolio";
 
 export default function Portfolio() {
     const onDetails = (event: any) => {
@@ -49,6 +49,14 @@ export default function Portfolio() {
                                             <a
                                                 href={project?.url}
                                                 target="_blank"
+                                                className="portfolio-details-lightbox"
+                                                data-glightbox="type: external"
+                                                title="Portfolio Details"
+                                            >
+                                                <i className="bx bx-link"></i>
+                                            </a>
+                                            <a
+                                                href="portfolio-details.html"
                                                 className="portfolio-details-lightbox"
                                                 data-glightbox="type: external"
                                                 title="Portfolio Details"

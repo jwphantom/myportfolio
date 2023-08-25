@@ -4,16 +4,16 @@ import { LoadScript } from "../js/loadScript.service";
 import Layout from "@/pages/layout";
 import { useEffect } from "react";
 
-import Header from "@/components/header/Header";
-import Hero from "@/components/hero/Hero";
-import About from "@/components/about/About";
-import Facts from "@/components/facts/Fact";
-import Skills from "@/components/skills/Skills";
-import Resume from "@/components/resume/Resume";
-import Portfolio from "@/components/portfolio/Portfolio";
-import Service from "@/components/services/Services";
-import Contact from "@/components/contact/Contact";
-import Footer from "@/components/footer/Footer";
+import Header from "@/layout/Header/Header";
+import Hero from "@/layout/Hero/Hero";
+import About from "@/layout/About/About";
+import Facts from "@/layout/Facts/Fact";
+import Skills from "@/layout/Skills/Skills";
+import Resume from "@/layout/Resume/Resume";
+import Portfolio from "@/layout/Portfolio/Portfolio";
+import Service from "@/layout/Services/Services";
+import Contact from "@/layout/Contact/Contact";
+import Footer from "@/layout/Footer/Footer";
 
 const script = new LoadScript();
 
