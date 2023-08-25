@@ -6,7 +6,9 @@ const portfolioData = [
         type: "App",
         description: "Description du projet 1.",
         img: ["/img/portfolio/omnivox-2.png", "image2.jpg"],
-        alt: "James Olongo Portfolio - Omnivox Img2"
+        alt: "James Olongo Portfolio - Omnivox Img2",
+        showModal: false
+
 
     },
     {
@@ -16,7 +18,9 @@ const portfolioData = [
         type: "Website",
         description: "Description du projet 2.",
         img: ["/img/portfolio/afrizon.png", "image4.jpg"],
-        alt: "James Olongo Portfolio - Afrizon Img"
+        alt: "James Olongo Portfolio - Afrizon Img",
+        showModal: false
+
 
     },
     {
@@ -26,8 +30,8 @@ const portfolioData = [
         type: "Website",
         description: "Description du projet 2.",
         img: ["/img/portfolio/irdsm-aviation.png", "image4.jpg"],
-        alt: "James Olongo Portfolio - Irdsm Aviation Img"
-
+        alt: "James Olongo Portfolio - Irdsm Aviation Img",
+        showModal: false
     },
     {
         name: "Too - Neuf : Create Own",
@@ -36,8 +40,8 @@ const portfolioData = [
         type: "Web App",
         description: "Description du projet 2.",
         img: ["/img/portfolio/too-neuf_2.png", "image4.jpg"],
-        alt: "James Olongo Portfolio - Too Neuf Img2"
-
+        alt: "James Olongo Portfolio - Too Neuf Img2",
+        showModal: false
     },
     {
         name: "End Of The Age",
@@ -46,8 +50,8 @@ const portfolioData = [
         type: "Web App",
         description: "Description du projet 2.",
         img: ["/img/portfolio/endoftheage.png", "image4.jpg"],
-        alt: "James Olongo Portfolio - EndOfTheAge Img"
-
+        alt: "James Olongo Portfolio - EndOfTheAge Img",
+        showModal: false
     },
     {
         name: "Lifederma - Home",
@@ -56,9 +60,9 @@ const portfolioData = [
         type: "E-commerce",
         description: "Description du projet 2.",
         img: ["/img/portfolio/lifederma.png", "image4.jpg"],
-        alt: "James Olongo Portfolio - Lifederma Img"
-
-    }, ,
+        alt: "James Olongo Portfolio - Lifederma Img",
+        showModal: false
+    },
     {
         name: "Mboadjoss - Home",
         url: "https://github.com/jwphantom/mboadjoss",
@@ -67,7 +71,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/mboadjoss.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Mboadjoss Img",
-
+        showModal: false
     },
     {
         name: "Business School - Etudiants",
@@ -76,8 +80,8 @@ const portfolioData = [
         type: "Web App",
         description: "Description du projet 2.",
         img: ["/img/portfolio/business_school.png", "image4.jpg"],
-        alt: "James Olongo Portfolio - Business School Img"
-
+        alt: "James Olongo Portfolio - Business School Img",
+        showModal: false
     }
 ];
 

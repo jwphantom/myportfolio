@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-before-interactive-script-outside-document */
-import React, { Component } from "react";
+import React, { Component, useState } from "react";
 import { LoadScript } from "../js/loadScript.service";
 import Layout from "@/pages/layout";
 import { useEffect } from "react";
@@ -14,6 +14,7 @@ import Portfolio from "@/layout/Portfolio/Portfolio";
 import Service from "@/layout/Services/Services";
 import Contact from "@/layout/Contact/Contact";
 import Footer from "@/layout/Footer/Footer";
+import FullModal from "@/components/Modal/full-modal";
 
 const script = new LoadScript();
 
