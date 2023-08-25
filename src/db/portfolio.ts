@@ -2,6 +2,7 @@ const portfolioData = [
     {
         name: "Omnivox - Dashboard",
         url: "https://omnivox.irdsm-aviation.com",
+        client: "IRDSM-AVIATION",
         page: "omnivox",
         type: "App",
         description: "Description du projet 1.",
@@ -14,6 +15,7 @@ const portfolioData = [
     {
         name: "Afrizon - Home",
         url: "https://github.com/jwphantom/afrizon",
+        client: "MIA",
         page: "afrizon",
         type: "Website",
         description: "Description du projet 2.",
@@ -26,6 +28,7 @@ const portfolioData = [
     {
         name: "IRDSM-Aviation",
         url: "https://www.irdsm-aviation.com",
+        client: "IRDSM-AVIATION",
         page: "irdsm_aviatioon",
         type: "Website",
         description: "Description du projet 2.",
@@ -36,6 +39,7 @@ const portfolioData = [
     {
         name: "Too - Neuf : Create Own",
         url: "https://github.com/jwphantom/too-neuf",
+        client: "Too - Neuf Canada",
         page: "too_neuf",
         type: "Web App",
         description: "Description du projet 2.",
@@ -46,6 +50,7 @@ const portfolioData = [
     {
         name: "End Of The Age",
         url: "https://github.com/jwphantom/endoftheage-2",
+        client: "EndOfTheAge",
         page: "end_of_the_age",
         type: "Web App",
         description: "Description du projet 2.",
@@ -55,6 +60,7 @@ const portfolioData = [
     },
     {
         name: "Lifederma - Home",
+        client: "Sudocare Ltd",
         url: "https://github.com/jwphantom/lifederma",
         page: "lifederma",
         type: "E-commerce",
@@ -65,6 +71,7 @@ const portfolioData = [
     },
     {
         name: "Mboadjoss - Home",
+        client: "Mboadjoss Inc",
         url: "https://github.com/jwphantom/mboadjoss",
         page: "mboadjoss",
         type: "Website",
@@ -75,6 +82,7 @@ const portfolioData = [
     },
     {
         name: "Business School - Etudiants",
+        client: "IRDSM Business School",
         url: "https://github.com/jwphantom/businessschool",
         page: "business_school",
         type: "Web App",
