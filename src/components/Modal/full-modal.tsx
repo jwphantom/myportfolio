@@ -36,7 +36,7 @@ export default function FullModal({ isOpen, onClose, selectedProject }: any) {
                                                     src={
                                                         selectedProject?.img[0]
                                                     }
-                                                    alt=""
+                                                    alt={selectedProject?.alt}
                                                 />
                                             </div>
                                         </div>
