@@ -14,13 +14,13 @@ export default function Skills() {
                     <div className="col-lg-6">
                         <div className="progress">
                             <span className="skill">
-                                HTML <i className="val">90%</i>
+                                HTML/CSS <i className="val">80%</i>
                             </span>
                             <div className="progress-bar-wrap">
                                 <div
                                     className="progress-bar"
                                     role="progressbar"
-                                    aria-valuenow={90}
+                                    aria-valuenow={80}
                                     aria-valuemin={0}
                                     aria-valuemax={100}
                                 />
@@ -28,7 +28,7 @@ export default function Skills() {
                         </div>
                         <div className="progress">
                             <span className="skill">
-                                CSS <i className="val">90%</i>
+                                Wordpress <i className="val">80%</i>
                             </span>
                             <div className="progress-bar-wrap">
                                 <div
@@ -101,13 +101,13 @@ export default function Skills() {
                         </div>
                         <div className="progress">
                             <span className="skill">
-                                Angular <i className="val">78%</i>
+                                Angular <i className="val">75%</i>
                             </span>
                             <div className="progress-bar-wrap">
                                 <div
                                     className="progress-bar"
                                     role="progressbar"
-                                    aria-valuenow={78}
+                                    aria-valuenow={75}
                                     aria-valuemin={0}
                                     aria-valuemax={100}
                                 />

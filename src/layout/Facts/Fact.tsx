@@ -17,7 +17,7 @@ export default function Facts() {
                             <i className="bi bi-emoji-smile" />
                             <span
                                 data-purecounter-start={0}
-                                data-purecounter-end={8}
+                                data-purecounter-end={9}
                                 data-purecounter-duration={1}
                                 className="purecounter"
                             />
@@ -29,7 +29,7 @@ export default function Facts() {
                             <i className="bi bi-journal-richtext" />
                             <span
                                 data-purecounter-start={0}
-                                data-purecounter-end={12}
+                                data-purecounter-end={13}
                                 data-purecounter-duration={1}
                                 className="purecounter"
                             />
