@@ -23,7 +23,10 @@ export default function About() {
                         />
                     </div>
                     <div className="col-lg-8 pt-4 pt-lg-0 content">
-                        <h3>Web & Mobile Developer &amp; Software Design.</h3>
+                        <h3>
+                            Web & Mobile Developer &amp; Machine Learning
+                            Developer.
+                        </h3>
 
                         <div className="row">
                             <div className="col-lg-6">
