@@ -13,7 +13,7 @@ export default function Hero() {
                     I&apos;m &nbsp;
                     <span
                         className="typed"
-                        data-typed-items="Web Developer, Mobile Developer , Software Design"
+                        data-typed-items="Web / Mobile Developer , Machine Learning"
                     />
                 </p>
                 <div className="social-links">

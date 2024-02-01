@@ -24,7 +24,7 @@ export default function About() {
                     </div>
                     <div className="col-lg-8 pt-4 pt-lg-0 content">
                         <h3>
-                            Web & Mobile Developer &amp; Machine Learning
+                            Web / Mobile Developer &amp; Machine Learning
                             Developer.
                         </h3>
 
