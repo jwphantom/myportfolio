@@ -31,7 +31,7 @@ export default function FullModal({ isOpen, onClose, selectedProject }: any) {
                                         <div className="swiper-wrapper align-items-center">
                                             <div className="">
                                                 <Image
-                                                    width={500}
+                                                    width={1000}
                                                     height={350}
                                                     src={
                                                         selectedProject?.img[0]

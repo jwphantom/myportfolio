@@ -29,7 +29,7 @@ export default function Facts() {
                             <i className="bi bi-journal-richtext" />
                             <span
                                 data-purecounter-start={0}
-                                data-purecounter-end={13}
+                                data-purecounter-end={14}
                                 data-purecounter-duration={1}
                                 className="purecounter"
                             />
