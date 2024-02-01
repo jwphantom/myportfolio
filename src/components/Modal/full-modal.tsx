@@ -57,8 +57,8 @@ export default function FullModal({ isOpen, onClose, selectedProject }: any) {
                                                 {selectedProject?.client}
                                             </li>
                                             <li>
-                                                <strong>Project date</strong>:
-                                                01 March, 2020
+                                                <strong>Project date</strong>:{" "}
+                                                {selectedProject?.date}
                                             </li>
                                             <li>
                                                 <strong>Project URL</strong>:{" "}

@@ -1,5 +1,19 @@
 const portfolioData = [
     {
+        name: "Internation Auto Association",
+        url: "https://intl-pass-driver.vercel.app/",
+        client: "Ony'x Corp",
+        page: "international_auto_association",
+        type: "App",
+        description: "Description du projet 1.",
+        img: ["/img/portfolio/intl_auto_assoc.png", "image2.jpg"],
+        alt: "James Olongo Portfolio - Freddy Essimbi Img",
+        date: "31 Octobre 2023",
+        showModal: false
+
+
+    },
+    {
         name: "Freddy Essimbi - Blog",
         url: "https://freddy-essimbi.com/",
         client: "Freddy Essimbi",
@@ -8,6 +22,7 @@ const portfolioData = [
         description: "Description du projet 1.",
         img: ["/img/portfolio/freddy_essimbi_blog.png", "image2.jpg"],
         alt: "James Olongo Portfolio - Freddy Essimbi Img",
+        date: "29 Août 2023",
         showModal: false
 
 
@@ -21,6 +36,7 @@ const portfolioData = [
         description: "Description du projet 1.",
         img: ["/img/portfolio/omnivox-2.png", "image2.jpg"],
         alt: "James Olongo Portfolio - Omnivox Img2",
+        date: "02 Février 2023",
         showModal: false
 
 
@@ -34,6 +50,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/irdsm-aviation.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Irdsm Aviation Img",
+        date: "22 Juin 2021",
         showModal: false
     },
     {
@@ -45,6 +62,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/lifederma.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Lifederma Img",
+        date: "19 Décembre 2020",
         showModal: false
     },
     {
@@ -56,6 +74,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/endoftheage.png", "image4.jpg"],
         alt: "James Olongo Portfolio - EndOfTheAge Img",
+        date: "31 Octobre 2021",
         showModal: false
     },
     {
@@ -67,6 +86,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/too-neuf_2.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Too Neuf Img2",
+        date: "22 Septembre 2021",
         showModal: false
     },
     {
@@ -78,6 +98,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/afrizon.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Afrizon Img",
+        date: "28 Septembre 2020",
         showModal: false
 
 
@@ -91,6 +112,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/business_school.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Business School Img",
+        date: "14 Mars 2020",
         showModal: false
     },
     {
@@ -102,6 +124,7 @@ const portfolioData = [
         description: "Description du projet 2.",
         img: ["/img/portfolio/mboadjoss.png", "image4.jpg"],
         alt: "James Olongo Portfolio - Mboadjoss Img",
+        date: "Mars 2019",
         showModal: false
     }
 ];
